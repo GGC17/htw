@@ -1,4 +1,3 @@
 # First project ever
 
 - This is our first project from beggining to end
-- We are not specialists in DS
